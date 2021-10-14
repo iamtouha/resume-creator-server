@@ -1,0 +1,32 @@
+[
+  {
+    "id": "professional-1",
+    "title": "Professional 1",
+    "path": "professional-1.docx",
+    "thumbnail": "professional-1.jpg"
+  },
+  {
+    "id": "professional-2",
+    "title": "Professional 2",
+    "path": "professional-2.docx",
+    "thumbnail": "professional-2.jpg"
+  },
+  {
+    "id": "progressive",
+    "title": "Progressive",
+    "path": "progressive.docx",
+    "thumbnail": "progressive.jpg"
+  },
+  {
+    "id": "imaginative",
+    "title": "Imaginative",
+    "path": "imaginative.docx",
+    "thumbnail": "imaginative.jpg"
+  },
+  {
+    "id": "exclusive",
+    "title": "Exclusive",
+    "path": "exclusive.docx",
+    "thumbnail": "exclusive.jpg"
+  }
+]

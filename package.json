@@ -1,0 +1,20 @@
+{
+  "name": "resume-creator",
+  "version": "1.0.0",
+  "description": "resume creator backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Touha Zohair",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "docxtemplater": "^3.21.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.5.0",
+    "nodemon": "^2.0.7",
+    "pizzip": "^3.0.6"
+  }
+}
